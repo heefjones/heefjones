@@ -1,4 +1,4 @@
-Hi there 👋
 
-- 🔭 I’m currently working on my skillset as a web developer
+
+- 🔭 Aspiring data scientist
 - I once ate 4 chipotle burritos in one sitting

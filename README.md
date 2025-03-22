@@ -4,7 +4,7 @@
 
 As a proud graduate of the Flatiron School's Data Science program, I am eager to contribute my skills and enthusiasm to a dynamic team. My journey in data science has been fueled by a passion for uncovering insights and driving impactful decisions through data.
 
-__I'm actively seeking opportunities as a Junior Data Scientist__, where I can bring fresh perspectives and innovative solutions.
+__I'm actively seeking opportunities as a Data Scientist__, where I can bring fresh perspectives and innovative solutions.
 
 ___
 
@@ -22,4 +22,4 @@ ___
 
 ### Connect with Me:
 
-I'm always open to discussing data science, project ideas, or potential collaborations. Feel free to reach out to me for any exciting opportunities or just to exchange ideas about the ever-evolving world of data science!
+I'm always open to discussing data science, project ideas, or potential collaborations.

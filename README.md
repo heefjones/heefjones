@@ -14,5 +14,5 @@ As a graduate of the Flatiron School's Data Science bootcamp, I'm __actively see
 - Pandas, Seaborn, Sklearn, Bayesian optimization.
 
 ### [Detect Sleep States](https://github.com/heefjones/detect_sleep_states)
-- Estimate the onset and wake-up times of users using wrist-worn accelerometer data.
+- Estimate the onset and wakeup times of users using wrist-worn accelerometer data.
 - Polars, Seaborn, Sklearn.
